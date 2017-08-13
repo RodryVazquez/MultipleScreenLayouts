@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/RodryVazquez/.android/build-cache/0c1b69d458bd998d7296d6abc5a0615abd4cb08d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/RodryVazquez/Desktop/PracticeAssignment01/app/build/intermediates/pre-dexed/debug/classes_2a76e5e7da1990227286bff500e91260309c9808.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/RodryVazquez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/RodryVazquez/Desktop/PracticeAssignment01/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_0d2b5de42a340db2799dc57cb6c7d33db12ab704.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/RodryVazquez/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/3.5.0/1e4b144dd28b139ae890ce2868979b12e1f2d7c7/realm-annotations-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1e4b144dd28b139ae890ce2868979b12e1f2d7c7">
+        <dex dex="/Users/RodryVazquez/Desktop/PracticeAssignment01/app/build/intermediates/pre-dexed/debug/realm-annotations-3.5.0_b9c14669475d7746ce93d9260fa16ab3c17c3681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/RodryVazquez/.android/build-cache/ffc67ea3868daa3767a198d103e0b0de35a9f28d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/RodryVazquez/Desktop/PracticeAssignment01/app/build/intermediates/pre-dexed/debug/classes_11ea081e033f5230ceb6ac3f67b03a9336bda996.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/RodryVazquez/.android/build-cache/6e8106a4964ade54a20b8fdb4b36ae9da9cba3e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/RodryVazquez/Desktop/PracticeAssignment01/app/build/intermediates/pre-dexed/debug/classes_87ce2a35963a83e4f3fae2fdcaf14a8b61ac9d2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/RodryVazquez/.android/build-cache/5d4f2b8b6bccfae834ba76ca07468f800eb692da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="700f8f1135982ef49cb91121a76490565f069553">
+        <dex dex="/Users/RodryVazquez/Desktop/PracticeAssignment01/app/build/intermediates/pre-dexed/debug/classes_cf273ef1b57f523b2663c61a743a32e62ce72b95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/RodryVazquez/.android/build-cache/ceb4e2a316b7d99f8ff1953e6cee27b982324c95/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/RodryVazquez/Desktop/PracticeAssignment01/app/build/intermediates/pre-dexed/debug/classes_0b30a72a84a0e9b163c5c9881ed2830866471d80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/RodryVazquez/.android/build-cache/5848060b763d835388600209259629c4ac6bcfd3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/RodryVazquez/Desktop/PracticeAssignment01/app/build/intermediates/pre-dexed/debug/classes_073db14a8b2c14e3f3f1ca795b725821a99b17bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/RodryVazquez/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/RodryVazquez/Desktop/PracticeAssignment01/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_1d14ee57d17dc8968211edb3c001b838d025e569.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/RodryVazquez/.android/build-cache/5fb7b40fd3d3f343959f56acd497c4f535cb529f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/RodryVazquez/Desktop/PracticeAssignment01/app/build/intermediates/pre-dexed/debug/classes_3e8a226d5b062e06bb4b4ad302f8a872c975bc02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/RodryVazquez/.android/build-cache/659c0f3a99723f873fa266391a2ad308d33ea86c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/RodryVazquez/Desktop/PracticeAssignment01/app/build/intermediates/pre-dexed/debug/classes_5fb2bf1edc3c264ef3ed7c3cfe699b3ce3607aed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/RodryVazquez/.android/build-cache/3394d6c8db9bd8b4255088f3350730f965ca0157/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/RodryVazquez/Desktop/PracticeAssignment01/app/build/intermediates/pre-dexed/debug/classes_9e5d632de919ee893ade0e14edf7905df8690f7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/RodryVazquez/.android/build-cache/c0ae9625e4f4fcd7397d1188f52174802aaa5401/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/RodryVazquez/Desktop/PracticeAssignment01/app/build/intermediates/pre-dexed/debug/classes_a424cce70e073b2cf91d1d21b8be790e57936a67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/RodryVazquez/.android/build-cache/dd90491a854c3ae302d8074c65fc5508270e986b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/RodryVazquez/Desktop/PracticeAssignment01/app/build/intermediates/pre-dexed/debug/classes_1db5883d4d14414906f4aebdc7d9d1517a50d5ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/RodryVazquez/.android/build-cache/edea86e238a0417627fade08159e07a3699a289f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/Users/RodryVazquez/Desktop/PracticeAssignment01/app/build/intermediates/pre-dexed/debug/classes_8999d972816c44f5735055cb48b1ee9c36c216d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/RodryVazquez/.android/build-cache/5f15559c66d4daec8b1409588ae39d318d0f53d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/RodryVazquez/Desktop/PracticeAssignment01/app/build/intermediates/pre-dexed/debug/classes_3997ffb814c469adf6f534c7d6af58c3eeb8ae5f.jar" />
+    </item>
+
+</items>

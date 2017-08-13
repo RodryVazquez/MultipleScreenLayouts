@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticeAssignment01</string>
+    <string name="dummy_moview_item">dummy movie item</string>
+    <string name="detail_movie_item">detail movie item</string>
+</resources>
